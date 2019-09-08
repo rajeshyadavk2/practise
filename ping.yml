@@ -2,4 +2,4 @@
 - hosts: all
   tasks:
   - name: pinging all nodes
-   ping:
+    ping:
